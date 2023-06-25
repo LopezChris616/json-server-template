@@ -1,52 +1,185 @@
 {
-  "toys": [
+  "Marvel": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Amazing Spider-Man",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "Avengers",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "Uncanny X-Men",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Bi-Weekly"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "Captain Marvel",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "title": "X-23",
+      "type": "Mini-Series",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "title": "Wolverine",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "title": "Mighty Thor",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "Jessica Jones",
+      "type": "Maxi-Series",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 9,
+      "title": "Ms. Marvel",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Weekly"
+    },
+    {
+      "id": 10,
+      "title": "Doctor Strange",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
     }
+  ],
+  "DC": [
+    {
+      "id": 1,
+      "title": "Batman",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 2,
+      "title": "Justice League",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 3,
+      "title": "Wonder Woman",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 4,
+      "title": "Superman",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 5,
+      "title": "Birds of Prey",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Bi-Weekly"
+    },
+    {
+      "id": 6,
+      "title": "Justice Society",
+      "type": "Maxi-Series",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 7,
+      "title": "Zatanna",
+      "type": "Mini-Series",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 8,
+      "title": "Green Lantern",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "3.99",
+      "releaseFrequency": "Monthly"
+    }
+  ],
+  "Image": [
+    {
+      "id": 1,
+      "title": "Saga",
+      "type": "Ongoing",
+      "genre": "Fantasy",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 2,
+      "title": "Phantom Road",
+      "type": "Ongoing",
+      "genre": "Horror",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 3,
+      "title": "Spawn",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
+    },
+    {
+      "id": 4,
+      "title": "Vanish",
+      "type": "Ongoing",
+      "genre": "Superhero",
+      "price": "2.99",
+      "releaseFrequency": "Monthly"
+    }
+    
   ]
 }
