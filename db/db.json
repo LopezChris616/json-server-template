@@ -1,5 +1,5 @@
 {
-  "Marvel": [
+  "marvel": [
     {
       "id": 1,
       "title": "Amazing Spider-Man",
@@ -81,7 +81,7 @@
       "releaseFrequency": "Monthly"
     }
   ],
-  "DC": [
+  "dc": [
     {
       "id": 1,
       "title": "Batman",
@@ -147,7 +147,7 @@
       "releaseFrequency": "Monthly"
     }
   ],
-  "Image": [
+  "image": [
     {
       "id": 1,
       "title": "Saga",
